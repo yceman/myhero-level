@@ -1,0 +1,25 @@
+{
+  "name": "myhero-level",
+  "version": "1.0.0",
+  "description": "Hero Level writed in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/myhero-level.git"
+  },
+  "keywords": [
+    "JS",
+    "Express",
+    "Hero",
+    "Skills"
+  ],
+  "author": "Marcos Morais",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yceman/myhero-level/issues"
+  },
+  "homepage": "https://github.com/yceman/myhero-level#readme"
+}
