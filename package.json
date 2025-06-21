@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/yceman/myhero-level/issues"
   },
-  "homepage": "https://github.com/yceman/myhero-level#readme"
+  "homepage": "https://github.com/yceman/myhero-level#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
